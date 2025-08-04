@@ -19,7 +19,7 @@ Neovim configuration focusing on C/C++ development and competitive programming.
 Clone this repository into your Neovim configuration directory:
 
 ```bash
-git clone <repo-url> ~/.config/nvim
+git clone https://github.com/MihneaTeodorStoica/dotnvim.git ~/.config/nvim
 ```
 
 Launch Neovim and the plugin manager will download the required plugins automatically.
